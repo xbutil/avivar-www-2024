@@ -83,7 +83,7 @@
     "uniqCompNum": 111,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
