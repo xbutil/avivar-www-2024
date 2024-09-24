@@ -63,7 +63,7 @@
       "popupMessage": "¡Hola!",
       "showPopup": true,
       "showOnIE": true,
-      "autoOpenTimeout": "8",
+      "autoOpenTimeout": "0",
       "headerColor": "#39847a",
       "headerTitle": "👋 Necesitas ayuda",
       "placeholder": "Escribe aquí",
@@ -71,7 +71,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "jpmcvfdsxp",
+    "mbrsiteDomain": "wgdxfljaff",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -83,7 +83,7 @@
     "uniqCompNum": 112,
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cssOptimize": false,
     "lazyLoad": false
   },
